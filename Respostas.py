@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# Não foi feito agosto pois o conceito é o mesmo.
 
 julho = sc.textFile('access_log_Jul95')
 
